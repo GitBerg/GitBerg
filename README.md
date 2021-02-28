@@ -4,14 +4,14 @@
   
 ### I'm building my workspace and here are some of the technologies I know about:
 
-  -  <strong> Java </strong> 
-  -  <strong> JavaScript <strong> 
-  -  <strong> C (Basic) <strong>
-  -  <strong> C++ (Basic) <strong> 
-  -  <strong> C# (Basic) <strong>
-  -  <strong> Python <strong> 
-  -  <strong> HTML <strong>
-  -  <strong> CSS <strong>
+  -  <em> Java </em> 
+  -  <em> JavaScript </em> 
+  -  <em> C (Basic) </em>
+  -  <em> C++ (Basic) </em> 
+  -  <em> C# (Basic) </em>
+  -  <em> Python </em> 
+  -  <em> HTML </em>
+  -  <em> CSS </em>
 
 ### Frameworks:
 
