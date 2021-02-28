@@ -1,6 +1,6 @@
 # <h1>Hey Guys! Welcome to my Git!<h1>
   ![](giphy.gif)
-## <p>My name is <strong>Gutemberg S. Filho</strong> 🖖</p>
+## <p>My name is <em>Gutemberg S. Filho</em> 🖖</p>
   
 ### I'm building my workspace and here are some of the technologies I know about:
 
@@ -15,9 +15,9 @@
 
 ### Frameworks:
 
-  - <em>React</em>
+  - <em>React
   - Spring Boot
-  - (NODE.JS)
+  - (NODE.JS)</em>
 
 ## ** Let's code !!! **
 
