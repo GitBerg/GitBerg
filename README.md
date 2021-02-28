@@ -5,13 +5,13 @@
 ### I'm building my workspace and here are some of the technologies I know about:
 
   -  <em> Java </em> 
-  -  <em> JavaScript </em> 
-  -  <em> C (Basic) </em>
-  -  <em> C++ (Basic) </em> 
-  -  <em> C# (Basic) </em>
-  -  <em> Python </em> 
-  -  <em> HTML </em>
-  -  <em> CSS </em>
+  -   JavaScript 
+  -   C (Basic)
+  -   C++ (Basic) 
+  -   C# (Basic)
+  -   Python
+  -   HTML
+  -   CSS </em>
 
 ### Frameworks:
 
