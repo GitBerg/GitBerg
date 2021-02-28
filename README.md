@@ -1,4 +1,6 @@
 ### <h1>Hey guys! Welcome to my Git!<h1>
+  
+### I'm building my workspace and here are some of the technologies I know about:
 
 <!--
 **GitBerg/GitBerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
