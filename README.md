@@ -1,8 +1,8 @@
-### <h1>Hey guys! Welcome to my Git!<h1>
+# <h1>Hey guys! Welcome to my Git!<h1>
 ## <p>My name is Gutemberg S. Filho</p>
   
 ### I'm building my workspace and here are some of the technologies I know about:
-###
+
   - Java
   - JavaScript
   - C (Basic)
@@ -11,9 +11,9 @@
   - Python
   - HTML
   - CSS
-###
+
 ### Frameworks:
-###
+
   - React
   - Spring Boot
   - (NODE.JS)
