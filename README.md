@@ -1,5 +1,5 @@
 # <h1>Hey guys! Welcome to my Git!<h1>
-  ! [programador](https://media1.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.mp4)
+  ! [programador](https://github.com/GitBerg/GitBerg/blob/main/giphy.gif?raw=true)
 ## <p>My name is Gutemberg S. Filho</p>
   
 ### I'm building my workspace and here are some of the technologies I know about:
