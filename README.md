@@ -4,7 +4,7 @@
   
 ### I'm building my workspace and here are some of the technologies I know about:
 
-  -  <em> Java </em> 
+  -  <em> Java
   -   JavaScript 
   -   C (Basic)
   -   C++ (Basic) 
