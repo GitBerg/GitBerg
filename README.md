@@ -1,4 +1,12 @@
-<body id="corpo">
+<style>
+body{
+  text-align: center
+  
+  }
+
+</style>
+
+<body>
 # <h1>Hey Guys! Welcome to my Git!<h1>
   ![](giphy.gif)
 ## <p>My name is <em>Gutemberg S. Filho</em> 🖖</p>
@@ -24,10 +32,6 @@
 
 ![](giphy2.gif)
 </body>
-
-body#corpo{
-text-align: center
-}
 <!--
 **GitBerg/GitBerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
