@@ -2,6 +2,21 @@
   
 ### I'm building my workspace and here are some of the technologies I know about:
 
+#Java
+#JavaScript
+#C
+#C++
+#C#
+#Python
+#HTML
+#CSS
+
+###Frameworks:
+
+#React
+#Spring Boot
+#(NODE.JS)
+
 <!--
 **GitBerg/GitBerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
