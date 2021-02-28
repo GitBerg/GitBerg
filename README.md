@@ -15,9 +15,9 @@
 
 ### Frameworks:
 
-  - * React *
-  - * Spring Boot *
-  - * (NODE.JS) *
+  - <em>React</em>
+  - Spring Boot
+  - (NODE.JS)
 
 ## ** Let's code !!! **
 
