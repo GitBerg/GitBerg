@@ -23,7 +23,7 @@
 ##  <em>Let's code !!! </em>
 
 ![](giphy2.gif)
-</body id="corpo">
+</body>
 
 body#corpo{
 text-align: center
