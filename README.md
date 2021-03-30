@@ -13,7 +13,7 @@
   -   HTML
   -   CSS </em>
 
-### Frameworks:
+### tools:
 
   - <em>React
   - Spring Boot
