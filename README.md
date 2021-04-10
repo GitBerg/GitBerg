@@ -9,7 +9,7 @@
   -   C (Basic)
   -   C++ (Basic) 
   -   C# (Basic)
-  -   Python
+  -   Python (Basic)
   -   HTML
   -   CSS </em>
 
