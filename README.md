@@ -19,7 +19,7 @@
   - Spring Boot
   - (NODE.JS)</em>
   
-  [![GitBerg GitHub stats](https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars)](https://github.com/GitBerg/github-readme-stats)
+  [![GitBerg GitHub stats](https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars&count_private=true&show_icons=true?&theme=dracula)](https://github.com/GitBerg/github-readme-stats)
 
 ##  <em>Let's code !!! </em>
 
