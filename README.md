@@ -25,7 +25,7 @@
   - Spring Boot<br>
   - NodeJS</em>
     </td>
-    <td><img src = "https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars&count_private=true&show_icons=true?&theme=dracula"> </td>
+    <td><img src = "https://github-readme-stats.vercel.app/api?username=GitBerg&hide=issues&count_private=true&show_icons=true?&theme=dracula"> </td>
   </tr>
  </table> 
 
