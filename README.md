@@ -4,7 +4,7 @@
   
 ### I'm building my workspace and here are some of the technologies I know about:
 
-  -  <em> Java
+  -  <em> Java                                              [![GitBerg GitHub stats](https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars&count_private=true&show_icons=true?&theme=dracula)](https://github.com/GitBerg/github-readme-stats)
   -   JavaScript 
   -   C (Basic)
   -   C++ (Basic) 
@@ -19,8 +19,6 @@
   - ReactJS
   - Spring Boot
   - NodeJS</em>
-  
-  [![GitBerg GitHub stats](https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars&count_private=true&show_icons=true?&theme=dracula)](https://github.com/GitBerg/github-readme-stats)
 
 ##  <em>Let's code !!! </em>
 
