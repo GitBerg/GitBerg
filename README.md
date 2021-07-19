@@ -18,6 +18,8 @@
   - <em>React
   - Spring Boot
   - (NODE.JS)</em>
+  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=GitBerg)
 
 ##  <em>Let's code !!! </em>
 
