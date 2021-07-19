@@ -1,10 +1,9 @@
-# <h1>Hey Guys! Welcome to my Git!<h1>
-  ![](giphy.gif)
-## <p>My name is <em>Gutemberg S. Filho</em> 🖖</p>
+# <h1 align="center">Hey Guys! Welcome to my Git!<h1>
+## <p align="center">My name is <em>Gutemberg S. Filho</em> 🖖</p>
   
-### I'm building my workspace and here are some of the technologies I know about:
+### <p align="center">Technologies I know about and my stats:</p>
 
- <table>
+ <table align="center">
   <tr>
     <td>Languages</td>
      <td>Libraries and tools</td>
@@ -30,9 +29,12 @@
   </tr>
  </table> 
 
-##  <em>Let's code !!! </em>
+##  <p align="center">Let's code !!! </p>
 
-![](giphy2.gif)
+  <div align="center">
+<img src="giphy2.gif" width=450>
+<img src="giphy.gif" width=450>
+  </div>
 <!--
 **GitBerg/GitBerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
