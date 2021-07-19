@@ -4,21 +4,31 @@
   
 ### I'm building my workspace and here are some of the technologies I know about:
 
-  -  <em> Java                                              [![GitBerg GitHub stats](https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars&count_private=true&show_icons=true?&theme=dracula)](https://github.com/GitBerg/github-readme-stats)
-  -   JavaScript 
-  -   C (Basic)
-  -   C++ (Basic) 
-  -   C# (Basic)
-  -   Python (Basic)
-  -   HTML
-  -   CSS </em>
-
-### Libraries and tools I know:
-
-  - <em> Flask
-  - ReactJS
-  - Spring Boot
+ <table>
+  <tr>
+    <td>Languages</td>
+     <td>Libraries and tools</td>
+    <td>Stats Git</td>
+  </tr>
+  <tr>
+    <td> 
+  -  <em> Java<br>
+  -   JavaScript <br>
+  -   C (Basic)<br>
+  -   C++ (Basic) <br>
+  -   C# (Basic)<br>
+  -   Python (Basic)<br>
+  -   HTML<br>
+  -   CSS </em></td>
+    <td>
+  - <em> Flask<br>
+  - ReactJS<br>
+  - Spring Boot<br>
   - NodeJS</em>
+    </td>
+    <td><img src = "https://github-readme-stats.vercel.app/api?username=GitBerg&hide=stars&count_private=true&show_icons=true?&theme=dracula"> </td>
+  </tr>
+ </table> 
 
 ##  <em>Let's code !!! </em>
 
