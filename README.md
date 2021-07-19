@@ -32,8 +32,8 @@
 ##  <p align="center">Let's code !!! </p>
 
   <div align="center">
-<img src="giphy2.gif" width=450>
-<img src="giphy.gif" width=450>
+<img src="giphy2.gif" width=300>
+<img src="giphy.gif" width=300>
   </div>
 <!--
 **GitBerg/GitBerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
