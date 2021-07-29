@@ -20,8 +20,7 @@
   -   HTML<br>
   -   CSS </em></td>
     <td>
-  - <em> Flask<br>
-  - ReactJS<br>
+  - <em> ReactJS<br>
   - Spring Boot<br>
   - NodeJS</em>
     </td>
