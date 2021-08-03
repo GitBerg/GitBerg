@@ -13,10 +13,6 @@
     <td> 
   -  <em> Java<br>
   -   JavaScript <br>
-  -   C (Basic)<br>
-  -   C++ (Basic) <br>
-  -   C# (Basic)<br>
-  -   Python (Basic)<br>
   -   HTML<br>
   -   CSS </em></td>
     <td>
