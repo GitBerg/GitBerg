@@ -1,4 +1,4 @@
-# <h1 align="center">Hey Guys! Welcome to my Git!<h1>
+# <h1 align="center">Hey There! Welcome to my Git!<h1>
 ## <p align="center">My name is <em>Gutemberg S. Filho</em> 🖖</p>
   
 ### <p align="center">Technologies I know about and my stats:</p>
@@ -11,14 +11,14 @@
   </tr>
   <tr>
     <td> 
-  -  <em> Java<br>
-  -   JavaScript <br>
+  -  <em>JavaScript <br>
   -   HTML<br>
   -   CSS </em></td>
     <td>
   - <em> ReactJS<br>
-  - Spring Boot<br>
-  - NodeJS</em>
+  - NodeJS<br>
+  - Express.JS<br>
+  - MongoDB</em>
     </td>
     <td><img src = "https://github-readme-stats.vercel.app/api?username=GitBerg&hide=issues&count_private=true&show_icons=true?&theme=dracula"> </td>
   </tr>
